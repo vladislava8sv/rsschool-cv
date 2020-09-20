@@ -2,7 +2,6 @@
 <head>
     <h1>CV</h1>
     </head>
-    <body>
 <ol>
     <li>FirstName:Vladislava LastName:Schegolikhina</li>
     <li>Email:vladochkash@mail.ru</li>
@@ -13,4 +12,3 @@
     <li>Education: I am currently a third year student at the faculty of Applied Mathematics and Computer Science.</li>
     <li>English Proficiency: B2(Upper-Intermediate).</li>
 </ol>
-    </body>
