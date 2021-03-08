@@ -1,1 +1,84 @@
-
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css" />
+  <title>CV</title>
+    <h1>CV</h1>
+    </head>
+  <body>
+    <div class="all">
+    <header>
+      <h1>Personal CV</h1>
+      <h3>Schegolikhina Vladislava</h3>
+     </header>
+    <div class="avatar">
+      <aside>
+      <img src="img/avatar.jpg" alt="avatar_img">
+       <aside>
+    </div>
+    <main class="main_information">
+                 <section class="main_part">
+                   <h2>Brief information</h2>
+                   <ul class="main-ul">
+          <li>I like to expand my field of my knowledge.</li>
+          <li>Sometimes in the beginning I have difficulties with a new programming language or an assigned task.</li>
+          <li>But I like to get to the root of the problem and solve it.</li>
+        </ul>
+                   </section>
+      <section class="main_part">
+                   <h2>Skills</h2>
+        <ul class="main-ul">
+          <li>I know BASIC and Pascal at a basic level</li>
+          <li>I prefer to write C/C++ code</li>
+          <li>I also worked with ultidimensional optimization methods in Matlab</li>
+          <li>Moreover, I compiled a small database during coursework in a PostgreSQL application.</li>
+        </ul>
+                   </section>
+      <section class="main_part">
+                   <h2>Course</h2>
+        <ul class="main-ul">
+          <li>I took a Computer Graphics course at the university.</li>
+          <li>I studied vector and bitmap graphics</li>
+          <li>I work with such algorithms as the Bresenham's, Liang-Barsky's, Cyrus-Beck's, Cohen–Sutherland's, and Sutherland–Hodgman's during this elective</li>
+        </ul>
+                   </section>
+      <section class="main_part">
+                   <h2>Education</h2>
+        <ul class="main-ul">
+          <li>I am currently a third year student at the faculty of Applied Mathematics and Computer Science.</li>
+        </ul>
+                   </section>
+      <section class="main_part">
+        <h2>English Proficiency</h2>
+        <ul class="main-ul">
+          <li>B2(Upper-Intermediate)</li>
+        </ul>
+                   </section>
+      <section class="main_part">
+                   <h2>Contacts</h2>
+                   <details>
+                     <ul class="main-ul">
+                       <li>E-mail: <a href="mailto:vladochkash@mail.ru" class="contacts-mail-text">vladochkash@mail.ru</a></li>
+                       <li>GitHub: <a href="https://github.com/vladislava8sv" class="contacts-mail-text">vladislava8sv</a></li>
+                       <li>Phone number: <a href="tel:+79186010950" class="contacts-mail-text"> +79186010950</a></li>
+                     </ul>
+                     
+        </details>
+                   </section>
+      <section class="main_part">
+                   <h2>Example of Code</h2>
+          <img class="code" src="img/code.jpg" alt="example of code">
+                   </section>
+ 
+    </main>
+        <footer class="footer">
+          <a href="https://rs.school/js/" class="logo"></a>
+          <a href="https://github.com/vladislava8sv" class="contacts-mail-text">GitHub</a> 
+          <h5>2021</h5>
+          </footer>
+        </div>
+        </body>
+        </html>
