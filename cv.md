@@ -71,11 +71,9 @@
         </section>
     </main>
         <footer class="footer">
-          <div>
-          <a href="https://rs.school/js/" class="logo"><img src="https://rs.school/images/rs_school_js.svg" width="100" height="50" alt="RS"></a>
-          <a href="https://github.com/vladislava8sv" class="contacts-mail-text">GitHub</a> 
-          <h5>2021</h5>
-          </div>
+          <p><a href="https://rs.school/js/" class="logo"><img src="https://rs.school/images/rs_school_js.svg" width="100" height="50" alt="RS"></a></p>
+          <p><a href="https://github.com/vladislava8sv" class="contacts-mail-text">GitHub</a></p> 
+          <p><h5>2021</h5></p>
           </footer>
         </div>
         </body>
