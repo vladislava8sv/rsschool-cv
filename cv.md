@@ -14,7 +14,7 @@
      </header>
     <div class="avatar">
       <aside>
-      <img src="img/avatar.jpg" alt="avatar_img">
+      <img src="img/avatar.HEIC" alt="avatar_img">
        <aside>
     </div>
     <main class="main_information">
