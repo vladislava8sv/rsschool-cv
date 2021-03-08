@@ -76,7 +76,7 @@ display: flex;
 .logo {
   display: block;
   flex-direction: column;
-  background: url(../img/rs.svg) center no-repeat;
+  background: url(../img/rs.png) center no-repeat;
   height: 50px;
   width: 100px;
   background-size: contain;
