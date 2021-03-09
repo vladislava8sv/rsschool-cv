@@ -8,20 +8,17 @@
 
 h1 {
   font-size: 2.5em;
-  margin-left: auto;
-  margin-right: auto;
+  text-align: center;
 }
 
 h2 {
   font-size: 2em;
-  margin-left: auto;
-  margin-right: auto;
+  text-align: center;
 }
 
 h3 {
   font-size: 1.5em;
-  margin-left: auto;
-  margin-right: auto;
+  text-align: center;
 }
 
 h5 {
@@ -49,11 +46,8 @@ body {
 }
 
 .avatar {
-  margin-left: auto;
-  margin-right: auto;
-  display: block; 
-  width:40%;
-  margin: 10%;
+  display: block;
+  justify-items: center; 
 }
 
 .main_information {
