@@ -19,14 +19,10 @@ h3 {
 }
 
 header {
-    display: flex;
-    flex-direction: row-reverse;
     align-items: center;
 }
 
 body {
-  margin-left: auto;
-  margin-right: auto;
   background-color: #E0FFFF;
 }
 
@@ -35,7 +31,6 @@ body {
 }
 
 .avatar {
-  display: block;
   text-align: center;
 }
 
@@ -55,16 +50,7 @@ list-style-image: disc;
 }
 
 .contacts-mail-text {
-  margin-left: auto;
-  margin-right: auto;
-  margin-left: 2rem;
   color: #579AC1;
-  font-family: Georgia;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 2rem;
-  line-height: 115%;
-  letter-spacing: 0.12rem;
 }
 
 .code {
