@@ -72,7 +72,12 @@ list-style-image: disc;
 }
 
 .footer {
-  display: flex;
+  height: 100px;
+  display: grid;
+  grid-template-rows: 100px;
+  justify-items: center;
+  align-items: center;
+  grid-template-rows: 100px;
   margin-left: auto;
   margin-right: auto;
 }
