@@ -63,7 +63,7 @@ list-style-image: disc;
 }
 
 footer {
-  margin: 20%;
+  padding: 20px;
   margin-left: auto;
   margin-right: auto;
   display: flex;
