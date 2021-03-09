@@ -63,11 +63,9 @@ list-style-image: disc;
 }
 
 footer {
-  display: flex;
   margin-left: auto;
   margin-right: auto;
   justify-content: space-between;
-  align-items: center;
   margin: 10%;
 }
 
