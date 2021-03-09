@@ -63,12 +63,12 @@ list-style-image: disc;
 }
 
 footer {
-  padding: 20px;
+  display: flex;
   margin-left: auto;
   margin-right: auto;
-  display: flex;
   justify-content: space-between;
   align-items: center;
+  margin: 10%;
 }
 
 .logo {
