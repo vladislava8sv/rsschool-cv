@@ -80,7 +80,7 @@ list-style-image: disc;
 }
 
 footer {
-  display: flex;
+  display:inline-block;
   justify-content: space-around;
   align-items: center;
 }
