@@ -30,6 +30,13 @@ h5 {
   margin-right: auto;
 }
 
+header {
+    display: flex;
+    flex-direction: row-reverse;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+}
 
 body {
   margin-left: auto;
@@ -65,7 +72,9 @@ list-style-image: disc;
 }
 
 .footer {
-display: flex;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .contacts-mail-text {
