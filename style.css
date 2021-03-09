@@ -80,8 +80,9 @@ list-style-image: disc;
 }
 
 footer {
-  display:inline-block;
-  justify-content: space-around;
+  display: flex;
+  padding-bottom: 30px;
+  justify-content: space-between;
   align-items: center;
 }
 
@@ -96,5 +97,7 @@ footer {
 }
 
 .logo {
+  display: block;
+  width: 100px;
   height: 50px;
 }
